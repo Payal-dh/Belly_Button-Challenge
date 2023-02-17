@@ -27,10 +27,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 5. Display each key-value pair from the metadata JSON object somewhere on the page.
 
-![demographic Info](https://user-images.githubusercontent.com/116124181/218005873-21513ed8-abe5-4035-95c1-c84da30a9a89.png)
-
-![Graphs Image](https://user-images.githubusercontent.com/116124181/218005255-be45b1e6-1d5d-4fc8-ab63-6258856d81fb.png)
-
+![dashboard](https://user-images.githubusercontent.com/116124181/219553770-5ecd7c55-266d-4c14-b578-ae6bf9289d50.png)
 
 ## Advanced Challenge Assignment (Optional)
 The following task is advanced and therefore optional.
