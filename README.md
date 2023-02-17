@@ -9,7 +9,8 @@ The dataset reveals that a small handful of microbial species (also called opera
    - Use otu_labels as the hovertext for the chart.
 
 ### Bar Chart
-![bar](https://user-images.githubusercontent.com/116124181/218005499-abca05be-2653-45e9-a57d-f02261bd3f77.png)
+![newplot (1)](https://user-images.githubusercontent.com/116124181/219553888-e512e582-76c7-4919-96c8-0b933eb512c0.png)
+
 
 
 3. Create a bubble chart that displays each sample.
@@ -20,7 +21,8 @@ The dataset reveals that a small handful of microbial species (also called opera
    - Use otu_labels for the text values.
 
 ### Bubble Chart
-<img width="1416" alt="bubble_chart" src="https://user-images.githubusercontent.com/116124181/218006099-a6eade79-148f-41fa-8087-fe598366962f.png">
+
+![newplot (2)](https://user-images.githubusercontent.com/116124181/219553938-f4447a57-ab0d-458b-b059-563037d1eb0d.png)
 
 
 4. Display the sample metadata, i.e., an individual's demographic information.
@@ -40,5 +42,5 @@ Update the chart whenever a new sample is selected.
 
 Weekly Washing Frequency Gauge
 
-<img width="384" alt="gauge" src="https://user-images.githubusercontent.com/116124181/218005316-d1f1017e-8c77-4090-8dfe-e8aa7ce01111.png">
+![newplot](https://user-images.githubusercontent.com/116124181/219553971-6fcc4ef3-c104-48ff-af59-ad97f2215e35.png)
 
